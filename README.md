@@ -21,8 +21,8 @@ Lớp: DA23TTB
 - Database: "db_website_ocop"
 
 ##Hướng dẫn chạy project:
-1.Cài đặt XAMPP
-2.Chạy Apache và MySQL
-3.Import file db_website_ocop.sql vào phpMyAdmin
-3.Copy thư mục project "WEBOCOP" vào "htdocs"
-3.Truy cập: localhost/WEBOCOP
+1. Cài đặt XAMPP
+2. Chạy Apache và MySQL
+3. Import file db_website_ocop.sql vào phpMyAdmin
+3. Copy thư mục project "WEBOCOP" vào "htdocs"
+3. Truy cập: localhost/WEBOCOP
